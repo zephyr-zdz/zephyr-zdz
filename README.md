@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     0 secs          ███████████████████░░░░░░   76.34 %
+TOML       0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.77 %
+textmate   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
 ```
 
 <!--END_SECTION:waka-->
