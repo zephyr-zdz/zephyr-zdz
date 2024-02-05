@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+_B.Sc_ @ Dept. of Chemistry, Fudan University, Shanghai, China. 2019.9 - 2023.6
+
+Software Dev. @ QuanMol Tech, Inc. 2023.9 - _Present_
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zephyr-zdz)
 
 <!--START_SECTION:waka-->
