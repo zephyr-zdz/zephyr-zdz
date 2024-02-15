@@ -24,11 +24,11 @@ Software Dev. @ QuanMol Tech, Inc. 2023.9 - _Present_
 <!--START_SECTION:waka-->
 
 ```txt
-Java               51 mins         █████████▒░░░░░░░░░░░░░░░   36.91 %
-Python             42 mins         ███████▓░░░░░░░░░░░░░░░░░   30.31 %
-XML                13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Markdown           11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-Shell Script       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Python             1 hr 7 mins     ██████████▓░░░░░░░░░░░░░░   42.66 %
+Java               50 mins         ████████░░░░░░░░░░░░░░░░░   32.08 %
+Markdown           20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
+TypeScript         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+YAML               4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
