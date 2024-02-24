@@ -24,10 +24,10 @@ Software Dev. @ QuanMol Tech, Inc. 2023.9 - _Present_
 <!--START_SECTION:waka-->
 
 ```txt
-Java           45 mins         ███████████████▒░░░░░░░░░   61.66 %
-TypeScript     23 mins         ███████▓░░░░░░░░░░░░░░░░░   31.18 %
-SSH Config     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Other          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Java           45 mins         ███████████████░░░░░░░░░░   60.18 %
+TypeScript     22 mins         ███████▒░░░░░░░░░░░░░░░░░   29.86 %
+SSH Config     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Other          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
