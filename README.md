@@ -24,10 +24,7 @@ Software Dev. @ QuanMol Tech, Inc. 2023.9 - _Present_
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 29 mins    ███████████████████████▓░   94.06 %
-Bash     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Java     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
