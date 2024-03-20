@@ -24,11 +24,11 @@ Software Dev. @ QuanMol Tech, Inc. 2023.9 - _Present_
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            3 hrs 53 mins   ██████████████▒░░░░░░░░░░   57.35 %
-OpenEdge ABL   2 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   31.32 %
-YAML           33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-JSON           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Git Config     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TeX            3 hrs 53 mins   █████████████▓░░░░░░░░░░░   54.22 %
+OpenEdge ABL   2 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   29.61 %
+YAML           33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+HTML           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+JSON           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 ```
 
 <!--END_SECTION:waka-->
