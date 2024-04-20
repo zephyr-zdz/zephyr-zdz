@@ -24,9 +24,7 @@ Software Dev. @ QuanMol Tech, Inc. 2023.9 - _Present_
 <!--START_SECTION:waka-->
 
 ```txt
-INI     8 mins          ███████████████▒░░░░░░░░░   61.18 %
-Other   5 mins          █████████▓░░░░░░░░░░░░░░░   38.01 %
-YAML    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+YAML   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
