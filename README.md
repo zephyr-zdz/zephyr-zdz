@@ -24,10 +24,8 @@ Software Dev. @ QuanMol Tech, Inc. 2023.9 - _Present_
 <!--START_SECTION:waka-->
 
 ```txt
-Other        2 hrs 34 mins   ███████████████████████▒░   93.54 %
-SSH Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-TeX          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other   2 hrs 11 mins   ████████████████████████░   96.19 %
+TeX     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
 ```
 
 <!--END_SECTION:waka-->
