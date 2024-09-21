@@ -24,8 +24,8 @@ Software Dev. @ QuanMol Tech, Inc. 2023.9 - _Present_
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 34 mins    ████████████▓░░░░░░░░░░░░   51.00 %
-HTML       1 hr 28 mins    ████████████░░░░░░░░░░░░░   47.82 %
+Markdown   1 hr 45 mins    █████████████▒░░░░░░░░░░░   53.79 %
+HTML       1 hr 28 mins    ███████████▒░░░░░░░░░░░░░   45.02 %
 YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
