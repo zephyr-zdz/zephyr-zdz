@@ -26,10 +26,10 @@ Master Student @ Dept. of Computational Biology and Medical Sciences, Graduate S
 <!--START_SECTION:waka-->
 
 ```txt
-Other        1 hr 3 mins     ███████████████████████▒░   93.28 %
-SSH Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Text         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Other        39 mins         ██████████████████████▒░░   89.57 %
+SSH Config   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
+Text         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
