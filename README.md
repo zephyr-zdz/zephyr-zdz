@@ -26,8 +26,8 @@ Master Student @ Dept. of Computational Biology and Medical Sciences, Graduate S
 <!--START_SECTION:waka-->
 
 ```txt
-Other   36 mins         ████████████████████▓░░░░   82.03 %
-INI     7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.97 %
+Other   38 mins         ████████████████████▓░░░░   82.74 %
+INI     7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.26 %
 ```
 
 <!--END_SECTION:waka-->
